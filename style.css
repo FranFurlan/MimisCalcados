@@ -1,0 +1,47 @@
+
+
+h1{
+    color: antiquewhite;
+}
+img{
+    width: 5%;
+}
+.Time{
+    background-color: rgb(245, 218, 241);
+}
+.descTime{
+    font-size: 25px;
+    font-style: italic;
+    font-family: Verdana, sans-serif;
+}
+#nossosCalcados, #nossoTime, h2, #calcados{
+    color: rgb(255, 3, 95);
+    font-size: 35px;
+    text-align: center;
+    font-display: bold;
+}
+#quemSomos{
+    color: rgb(234, 118, 191);
+    margin-right: 13px;
+    font-size: 35px;
+    font-style: italic;
+    font-family: Verdana, sans-serif;
+}
+#conteudo{
+    width: 30%;
+}
+.card-img-overlay{
+    color: rgb(230, 113, 198);
+    font-display: bold;
+}
+footer, .redeSociais{
+    text-align: center;
+    margin-bottom: 3%;  
+}
+#Face{
+    width: 3%;
+    margin-right: 10px;
+}
+#whats{
+    width: 3.2%;
+}
